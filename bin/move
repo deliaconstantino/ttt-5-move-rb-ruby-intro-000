@@ -14,4 +14,5 @@ move(board, index, "X")
 display_board(board)
 
 
-sum(2, 6)
+num1 = 2
+sum(num1, 6)
