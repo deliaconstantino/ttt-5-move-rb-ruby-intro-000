@@ -16,5 +16,6 @@ def move(board, index, value = "X")
 end
 
 def sum(a, b)
+  a = a + 1
   a + b
 end
